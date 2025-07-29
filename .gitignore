@@ -1,0 +1,5 @@
+# Visual Studio 專屬快取
+.vs/
+*.vsidx
+*.suo
+*.user
